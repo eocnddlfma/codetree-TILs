@@ -6,6 +6,6 @@ int main() {
     cin >> n;
     cout << n*n;
     if(n<5)
-    cout MM"\ntiny";
+    cout <<"\ntiny";
     return 0;
 }
