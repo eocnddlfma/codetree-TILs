@@ -5,7 +5,7 @@ int main() {
     int first, sec, num;
     cin >> num >> first;
 
-    int min=99999;
+    int min=9999999;
     for(int i=2; i<num;i++)
     {
         sec = first;
